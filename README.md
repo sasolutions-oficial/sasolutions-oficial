@@ -1,4 +1,4 @@
-## Oi, nós somos a South Africa Solutions :mask:
+## Oi, nós somos a South Africa Solutions
 
 ## Osasco
 
