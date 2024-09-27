@@ -13,7 +13,7 @@ Acompanhe nossas redes sociais:
 - [Behance](https://www.behance.net/sasolutionsOficial)
 
 
-[![sasolutions-oficial's github stats](https://github-readme-stats.vercel.app/api?username=sasolutions-oficial&&show_icons=true&&theme=dark&title_color=2196F3&icon_color=03A9F4&text_color=607D8B&bg_color=151515&locale=pt-br)](https://github.com/jscostaBR)
+[![sasolutions-oficial's github stats](https://github-readme-stats.vercel.app/api?username=sasolutions-oficial&&show_icons=true&&theme=dark&title_color=2196F3&icon_color=03A9F4&text_color=607D8B&bg_color=151515&locale=pt-br)](https://github.com/sasolutions-oficial)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasolutions-oficial)](https://github.com/jscostaBR)
 
